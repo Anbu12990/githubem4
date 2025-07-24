@@ -1,0 +1,13 @@
+step create new repo
+create new file
+give any text message 
+now give commit change  means any update writing code
+finally give commit
+now dowload git
+now go to cmd termial
+then giv command
+git config --global user.name 'anbu240'
+git config --global user.mail 'anbudveops12790@gmial.com'
+git config --global --list
+get user name
+user email
